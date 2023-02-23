@@ -4,7 +4,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 ## Slides
 
-- Introduction to the course (prof. Corno)
+- [Introduction to the course (prof. Corno)](slide/00-intro-2023-WA1-AH.pdf)
 - Introduction to the course (prof. Masala)
 - Introduction to the course (prof. De Russis)
 
