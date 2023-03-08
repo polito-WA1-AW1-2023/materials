@@ -27,7 +27,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 
 ## Laboratories
-- Lab 1: Getting Started with Node.js
+- Lab 1: [Getting Started with Node.js](./labs/lab1-getting-started-node.pdf)
 - Lab 2
 - Lab 3
 - Lab 4
