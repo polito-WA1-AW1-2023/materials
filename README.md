@@ -15,6 +15,10 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 
 ### Browsers and client-side applications
+- See **Reading 1**
+- [Web Architecture](slide/2-01-web-architecture.pdf)
+- [(Modern) HTML](slide/2-02-html.pdf)
+- [Cascading Style Sheets](slide/2-03-css.pdf)
 
 
 ### React
@@ -24,7 +28,10 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 
 ## Readings
-
+- Reading 1: [Introduction to Web Architectures, HTML, and CSS](readings/2-0-reading-web-architecture-html-css.pdf)
+- Reading 2
+- Reading 3
+- Reading 4
 
 ## Laboratories
 - Lab 1: [Getting Started with Node.js](./labs/lab01-getting-started-node.pdf)
