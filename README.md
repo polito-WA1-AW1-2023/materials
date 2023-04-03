@@ -23,6 +23,8 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 
 ### React
+ - [Introduction to React](slide/3-01-React-intro.pdf)
+ - [Elements, JSX, Components](slide/3-02-Elements-and-JSX.pdf)
 
 
 ### Web Servers and server-side APIs
