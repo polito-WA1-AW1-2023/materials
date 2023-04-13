@@ -8,13 +8,16 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - [Introduction to the course (prof. De Russis)](slide/00-intro-2023-WA1-iz.pdf)
 - [Introduction to the course (prof. Masala)](slide/00-intro-2023-AW1.pdf)
 
+
 ### Javascript
+
 - [JavaScript Basics](slide/1-01-javascript-basics.pdf)
 - [JavaScript Objects and Functions](slide/1-02-javascript-objects-functions.pdf)
 - [Asynchronous Programming in JavaScript](slide/1-03-javascript-async-programming.pdf)
 
 
 ### Browsers and client-side applications
+
 - See **Reading 1**
 - [Web Architecture](slide/2-01-web-architecture.pdf)
 - [(Modern) HTML](slide/2-02-html.pdf)
@@ -23,6 +26,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 
 ### React
+
 - [Introduction to React](slide/3-01-React-intro.pdf)
 - [Elements, JSX, Components](slide/3-02-Elements-and-JSX.pdf)
 - [Components and State](slide/3-03-Components-and-state.pdf)
@@ -33,14 +37,17 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 
 ## Readings
+
 - Reading 1: [Introduction to Web Architectures, HTML, and CSS](readings/2-0-reading-web-architecture-html-css.pdf)
 - Reading 2
 - Reading 3
 - Reading 4
 
+
 ## Laboratories
+
 - Lab 1: [Getting Started with Node.js](./labs/lab01-getting-started-node.pdf)
 - Lab 2: [Database Integration](./labs/lab02-node-database.pdf)
 - Lab 3: [Getting started with HTML and CSS](./labs/lab03-html-css.pdf)
-- Lab 4
-
+- Lab 4: [JavaScript in the Browser](./labs/lab04-js-browser.pdf)
+- Lab 5: [Getting Started with React](./labs/lab05-getting-started-react.pdf)
