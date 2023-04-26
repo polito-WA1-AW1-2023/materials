@@ -54,5 +54,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - Lab 3: [Getting started with HTML and CSS](./labs/lab03-html-css.pdf)
 - Lab 4: [JavaScript in the Browser](./labs/lab04-js-browser.pdf)
 - Lab 5: [Getting Started with React](./labs/lab05-getting-started-react.pdf)
-- Lab 6
-- Lab 7
+- Lab 6: [React Forms](./labs/lab06-forms.pdf)
+- Lab 7: React Routes
+- Lab 8: Express
+- Lab 9:
