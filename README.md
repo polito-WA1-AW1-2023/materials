@@ -52,12 +52,14 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 
 ## Laboratories
 
-- Lab 1: [Getting Started with Node.js](./labs/lab01-getting-started-node.pdf)
-- Lab 2: [Database Integration](./labs/lab02-node-database.pdf)
-- Lab 3: [Getting started with HTML and CSS](./labs/lab03-html-css.pdf)
-- Lab 4: [JavaScript in the Browser](./labs/lab04-js-browser.pdf)
-- Lab 5: [Getting Started with React](./labs/lab05-getting-started-react.pdf)
-- Lab 6: [React Forms](./labs/lab06-forms.pdf)
-- Lab 7: [React Routes](./labs/lab07-routes.pdf)
-- Lab 8: Express
-- Lab 9:
+- Lab 01: [Getting Started with Node.js](./labs/lab01-getting-started-node.pdf)
+- Lab 02: [Database Integration](./labs/lab02-node-database.pdf)
+- Lab 03: [Getting started with HTML and CSS](./labs/lab03-html-css.pdf)
+- Lab 04: [JavaScript in the Browser](./labs/lab04-js-browser.pdf)
+- Lab 05: [Getting Started with React](./labs/lab05-getting-started-react.pdf)
+- Lab 06: [React Forms](./labs/lab06-forms.pdf)
+- Lab 07: [React Routes](./labs/lab07-routes.pdf)
+- Lab 08: [Express](./labs/lab08-express.pdf)
+- Lab 09: Client-server interaction (part 1)
+- Lab 10: Client-server interaction (part 2)
+- Lab 11: Authentication
