@@ -25,6 +25,7 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - [(Modern) HTML](slide/2-02-html.pdf)
 - [Cascading Style Sheets](slide/2-03-css.pdf)
 - [JavaScript in the Browser](slide/2-04-JS-browser.pdf)
+- [Fetch API](slide/2-05-fetch.pdf)
 
 
 ### React
@@ -35,6 +36,8 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - [Forms](slide/3-04-Forms.pdf)
 - [Context](slide/3-05-Context.pdf)
 - [React Router](slide/3-06-React-Router.pdf)
+- [Client-Server Interaction in React](slide/3-07-Client-Server-React.pdf)
+- [React Life Cycle](slide/3-08-LifeCycle.pdf)
 
 
 ### Web Servers and server-side APIs
@@ -47,7 +50,6 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - Reading 1: [Introduction to Web Architectures, HTML, and CSS](readings/2-0-reading-web-architecture-html-css.pdf)
 - Reading 2: [The 'this' keyword in JavaScript](readings/1-4-reading-this.pdf)
 - Reading 3: [JavaScript Modules](readings/1-5-reading-modules.pdf)
-- Reading 4
 
 
 ## Laboratories
