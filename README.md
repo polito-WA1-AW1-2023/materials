@@ -63,5 +63,5 @@ Material for the course of _Web Applications I_ (in English) and _Applicazioni W
 - Lab 07: [React Routes](./labs/lab07-routes.pdf)
 - Lab 08: [Express](./labs/lab08-express.pdf)
 - Lab 09: [Client-server interaction (part 1)](./labs/lab09-API-1.pdf)
-- Lab 10: Client-server interaction (part 2)
+- Lab 10: [Client-server interaction (part 2)](./labs/lab10-API-2.pdf)
 - Lab 11: Authentication
